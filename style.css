@@ -58,6 +58,10 @@ body, html{
     border-radius: 2px;
 }
 
+#scoreval{
+    width: 30px;
+}
+
 .pbtm{
     padding: 10px;
     width: 100%;
