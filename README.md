@@ -1,2 +1,2 @@
 # BubbleGame
-website is live at: url
+website is live at: https://omdwid.github.io/BubbleGame/
